@@ -1,4 +1,15 @@
 ## Hi there 👋
+# I'm [hajero9]! 👋
+
+I'm a [student] passionate about [alot stuff ].  
+
+## About Me  
+ 
+- 💬 Ask me about [copywriting , learning language ,]  
+ 
+ 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hajero9&show_icons=true&theme=radical)
+
 
 <!--
 **hajero9/hajero9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
